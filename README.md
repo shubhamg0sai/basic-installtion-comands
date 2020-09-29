@@ -1,1 +1,43 @@
 # basic-installtion-comands
+
+### FIND...ME.
+
+
+What app:
+https://chat.whatsapp.com/JtCW38B01hjAGwlVHhyu5q
+
+         OR
+
+https://chat.whatsapp.com/JyqQKyXuw3f43Ll90pHSMO
+
+        OR
+
+https://chat.whatsapp.com/L4iSBfleMKqKd1G10f7IIc
+
+
+Instagram : https://www.instagram.com/shubham_g0sain/?hl=en
+
+Github.   : https://github.com/ShuBhamg0sain
+
+Facebook  : https://m.facebook.com/shubham.gosain.980
+
+Telegram :
+https://t.me/ShuBham_g0sain
+
+## Installation
+
+apt update
+
+apt upgrade
+
+apt install python
+
+apt install python2
+
+apt install git
+
+git clone https://github.com/ShuBhamg0sain/basic-installtion-comands
+
+cd basic-installtion-comands
+
+bash Shubham.sh
