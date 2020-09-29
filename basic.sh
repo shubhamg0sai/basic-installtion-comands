@@ -23,6 +23,7 @@ apt install screenfetch -y
 apt install cowsay -y
 apt install toilet -y
 apt install figlet -y
+apt install ngrok -y
 apt install php -y 
 apt install perl -y
 apt install nmap -y
