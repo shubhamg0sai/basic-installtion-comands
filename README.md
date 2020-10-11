@@ -40,4 +40,4 @@ git clone https://github.com/ShuBhamg0sain/basic-installtion-comands
 
 cd basic-installtion-comands
 
-bash Shubham.sh
+bash basic.sh
