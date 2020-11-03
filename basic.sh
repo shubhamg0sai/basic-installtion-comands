@@ -15,20 +15,6 @@ echo ""
 echo ""
 𝑻𝒆𝒓𝒎𝒖𝒙 𝑩𝒂𝒔𝒊𝒄 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔 
 
-pkg install libgmp-dev -y 
-pkg insall libpcap-dev -y 
-pkg install postgresql-dev -y 
-pkg install readline-dev -y  
-pkg install libsqlite-dev -y 
-pkg install openssl-dev -y
-pkg install libxml2-dev -y 
-pkg install libxslt-dev -y 
-pkg install ncurses-dev -y 
-pkg install ruby-dev -y 
-pkg install libgrpc-dev -y
-pip install -r requirements.txt
-pip2 install requirements.txt
-pip2 install mechnaize
 pkg update -y 
 pkg upgrade -y 
 Pkg install git -y  
@@ -47,6 +33,9 @@ pkg install w3m
 pkg install hydra 
 pkg install figlet  
 pkg install tar 
+pkg install root-repo
+pkg install unstable-repo
+pkg install x11-repo
 pkg install unzip 
 pkg install tor 
 pkg install wget 
@@ -78,6 +67,20 @@ pkg install libxslt-dev -y
 pkg install ncurses-dev -y 
 pkg install ruby-dev -y 
 pkg install libgrpc-dev -y 
+pkg install libgmp-dev -y 
+pkg insall libpcap-dev -y 
+pkg install postgresql-dev -y 
+pkg install readline-dev -y  
+pkg install libsqlite-dev -y 
+pkg install openssl-dev -y
+pkg install libxml2-dev -y 
+pkg install libxslt-dev -y 
+pkg install ncurses-dev -y 
+pkg install ruby-dev -y 
+pkg install libgrpc-dev -y
+pip install -r requirements.txt
+pip2 install requirements.txt
+pip2 install mechnaize
 pkg update -y
 pkg upgrade -y 
 pkg install git -y 
