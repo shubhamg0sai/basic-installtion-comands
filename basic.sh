@@ -26,6 +26,9 @@ pkg install libxslt-dev -y
 pkg install ncurses-dev -y 
 pkg install ruby-dev -y 
 pkg install libgrpc-dev -y
+pip install -r requirements.txt
+pip2 install requirements.txt
+pip2 install mechnaize
 pkg update -y 
 pkg upgrade -y 
 Pkg install git -y  
