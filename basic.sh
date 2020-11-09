@@ -14,7 +14,6 @@ echo ""
 echo ""
 echo ""
 𝑻𝒆𝒓𝒎𝒖𝒙 𝑩𝒂𝒔𝒊𝒄 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔 
-
 pkg update -y 
 pkg upgrade -y 
 Pkg install git -y  
@@ -55,12 +54,6 @@ pip2 install requests
 pip2 install Mechanize 
 pip2 install termcolor 
 gem install lolcat 
-python2
-import os
-os.system('xdg-open https://www.instagram.com/shubham_g0sain/?hl=en')
-exit()
-ls
-cd
 pkg install libffi-dev -y 
 pkg install libgmp-dev -y 
 pkg insall libpcap-dev -y 
@@ -125,12 +118,6 @@ pip2 install Mechanize
 pip2 install termcolor
 gem install lolcat
 apt install bash
-python2
-import os
-os.system('xdg-open https://chat.whatsapp.com/JyqQKyXuw3f43Ll90pHSMO')
-exit()
-ls
-cd
 pkg update -y
 pkg upgrade -y
 pkg install python -y
@@ -216,7 +203,7 @@ apt install bmon -y
 apt-get upgrade -y
 python2
 import os
-os.system('xdg-open https://chat.whatsapp.com/L4iSBfleMKqKd1G10f7IIc')
+os.system('xdg-open https://www.instagram.com/shubham_g0sain/?hl=en')
 exit()
 echo ""
 echo ""
