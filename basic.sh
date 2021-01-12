@@ -1,19 +1,12 @@
+echo -e "\e[1;31mThe script is  made by ShuBhamg0sain"
+echo ""
+echo -e "\e[1;31m follow me on Instagram https://www.instagram.com/shubham_g0sain/?hl=en"
 echo ""
 echo ""
 echo ""
-echo "The script is  made by ShuBhamg0sain"
+echo -e "\e[1;32m Installtion process is started" 
 echo ""
-echo "Facebook  : https://m.facebook.com/shubham.gosain.980"
-echo "Telegram : https://t.me/ShuBham_g0sain"
-echo "follow me on Instagram https://www.instagram.com/shubham_g0sain/?hl=en"
-echo ""
-echo ""
-echo ""
-echo "Installtion process is started" 
-echo ""
-echo ""
-echo ""
-𝑻𝒆𝒓𝒎𝒖𝒙 𝑩𝒂𝒔𝒊𝒄 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔 
+echo -e "\e[1;32m 𝑻𝒆𝒓𝒎𝒖𝒙 𝑩𝒂𝒔𝒊𝒄 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔"
 pkg update -y 
 pkg upgrade -y 
 Pkg install git -y  
@@ -54,29 +47,6 @@ pip2 install requests
 pip2 install Mechanize 
 pip2 install termcolor 
 gem install lolcat 
-pkg install libffi-dev -y 
-pkg install libgmp-dev -y 
-pkg insall libpcap-dev -y 
-pkg install postgresql-dev -y 
-pkg install readline-dev -y 
-pkg install libsqlite-dev -y 
-pkg install openssl-dev -y 
-pkg install libxml2-dev -y 
-pkg install libxslt-dev -y 
-pkg install ncurses-dev -y 
-pkg install ruby-dev -y 
-pkg install libgrpc-dev -y 
-pkg install libgmp-dev -y 
-pkg insall libpcap-dev -y 
-pkg install postgresql-dev -y 
-pkg install readline-dev -y  
-pkg install libsqlite-dev -y 
-pkg install openssl-dev -y
-pkg install libxml2-dev -y 
-pkg install libxslt-dev -y 
-pkg install ncurses-dev -y 
-pkg install ruby-dev -y 
-pkg install libgrpc-dev -y
 pip install -r requirements.txt
 pip2 install requirements.txt
 pip2 install mechnaize
@@ -167,56 +137,13 @@ pkg install openssh -y
 pkg install wireshark -y
 termux-setup-storage -y
 pkg install macchanger -y
-apt update && apt upgrade -y
-apt-get update -y                    
-apt install python -y           
-apt install python2 -y
-apt install ruby -y 
-apt install git -y
-apt install screenfetch -y
-apt install cowsay -y
-apt install toilet -y
-apt install figlet -y
-apt install ngrok -y
-apt install php -y 
-apt install perl -y
-apt install nmap -y
-pkg install openssh -y
-apt install bash -y
-apt install clang -y
-apt install jq -y
-apt install nano -y
-apt install curl -y
-apt install tar -y
-apt install zip -y
-apt install fish -y
-apt install unzip -y
-apt install tor -y 
-apt install sudo -y
-apt install wget -y
-apt install tor -y
-apt install w3m -y
-apt install cmatrix -y
-apt install wcalc -y 
-apt install openssl -y
-apt install bmon -y
-apt-get upgrade -y
-python2
-import os
-os.system('xdg-open https://www.instagram.com/shubham_g0sain/?hl=en')
-exit()
+git clone https://github.com/ShuBhamg0sain/FIND-ME
+cd FIND-ME
+bash Find.sh
 echo ""
+echo -e "\e[1;32mAll basic packages and tools is installed"
 echo ""
+echo -e "\e[1;32mBe a Hacker...."
 echo ""
-echo ""
-
-echo "All basic packages and tools is installed"
-echo ""
-echo ""
-echo "Be a Hacker...."
-echo ""
-echo ""
-echo "Facebook  : https://m.facebook.com/shubham.gosain.980"
-echo "Telegram : https://t.me/ShuBham_g0sain"
 echo "follow me on Instagram https://www.instagram.com/shubham_g0sain/?hl=en"
 exit
